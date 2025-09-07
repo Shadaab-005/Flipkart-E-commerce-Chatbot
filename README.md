@@ -114,7 +114,10 @@ Create a .env file in the root folder:
 ✨ Demo Screenshot
 -----------------
 
-_(Add a screenshot of your Streamlit chatbot here)_
+
+
+![Flipkart Chatbot Demo](resource/product-ss.png)
+
 
 🤝 Contributing
 ---------------
