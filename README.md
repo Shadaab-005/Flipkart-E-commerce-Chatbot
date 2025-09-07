@@ -18,6 +18,7 @@ An intelligent chatbot that answers **product, order, and policy-related queries
 🏗️ Architecture
 ----------------
 
+
 1.  **Web Scraping** → Extract Flipkart product + policy FAQs.
     
 2.  **ChromaDB** → Store FAQs as vector embeddings for retrieval.
@@ -27,6 +28,8 @@ An intelligent chatbot that answers **product, order, and policy-related queries
 4.  **Groq LLM** → Generate conversational answers from retrieved context.
     
 5.  **Streamlit UI** → Chat interface for end-users.
+
+   ![Architecture ](resources/architecture-diagram.png)
     
 
 ⚙️ Tech Stack
@@ -116,7 +119,7 @@ Create a .env file in the root folder:
 
 
 
-![Flipkart Chatbot Demo](resource/product-ss.png)
+![Flipkart Chatbot Demo](resources/product-ss.png)
 
 
 🤝 Contributing
